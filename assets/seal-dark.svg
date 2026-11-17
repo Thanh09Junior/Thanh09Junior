@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" role="img">
+  <title>V.T.Thanh Assistant monogram seal</title>
+  <!-- outer dashed circle -->
+  <circle cx="100" cy="100" r="88" fill="none" stroke="#AC9A6D" stroke-width="2"
+          stroke-dasharray="6 5" opacity="0.9"/>
+  <!-- inner hairline circle -->
+  <circle cx="100" cy="100" r="72" fill="none" stroke="#AC9A6D" stroke-width="1.5" opacity="0.55"/>
+  <!-- compass ticks N E S W -->
+  <line x1="100" y1="6" x2="100" y2="18" stroke="#AC9A6D" stroke-width="2"/>
+  <line x1="182" y1="100" x2="194" y2="100" stroke="#AC9A6D" stroke-width="2"/>
+  <line x1="100" y1="182" x2="100" y2="194" stroke="#AC9A6D" stroke-width="2"/>
+  <line x1="6" y1="100" x2="18" y2="100" stroke="#AC9A6D" stroke-width="2"/>
+  <!-- monogram -->
+  <text x="100" y="102" text-anchor="middle" dominant-baseline="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="30"
+        letter-spacing="3" fill="#C8CFA0">V.T.T.A</text>
+  <!-- catalogue number -->
+  <text x="100" y="138" text-anchor="middle"
+        font-family="'Courier New', Courier, monospace" font-size="13"
+        letter-spacing="4" fill="#AC9A6D">001</text>
+</svg>
